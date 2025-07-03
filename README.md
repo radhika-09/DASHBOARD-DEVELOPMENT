@@ -1,5 +1,6 @@
 # DASHBOARD-DEVELOPMENT
 📊 Sales Navigator Dashboard
+
 Project Title: Sales Navigator Dashboard
 Company: Codtech IT Solutions
 Name: Radhika
@@ -72,4 +73,4 @@ sales-navigator-dashboard/
 
 📁 Output
 
-
+![Image](https://github.com/user-attachments/assets/f7f615ca-813b-4676-b33b-99308ec25517)
